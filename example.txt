@@ -1,1 +1,9 @@
-"haha" 
+Themes and their respective topics are 
+
+THEMES:
+    Graphic Design~
+        - "Use logos judiciously" - bad example: "wayback.png"
+    Graphics & Animation~
+        - 
+    Advertising
+
